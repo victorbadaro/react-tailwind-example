@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 body {
-	@apply bg-slate-950;
+	@apply flex items-center justify-center min-h-screen bg-slate-950;
 }
